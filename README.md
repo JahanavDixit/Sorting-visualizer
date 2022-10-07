@@ -1,4 +1,4 @@
-###Sorting-visualizer
+### Sorting-visualizer
 This is a sorting Visualizer project.
 
 - This project is a witness of the genesis of my journey as a web developer.
