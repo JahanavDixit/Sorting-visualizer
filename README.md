@@ -6,6 +6,6 @@ This is a sorting Visualizer project.
 - This project is deployed on Heroku Platform using bits of ExpressJs.
 - Made with :heart: by Jahanav.
 
-[![Sorting Visulizer](https://img.shields.io/badge/Sorting%20Visualizer-LIVE-green?style=for-the-badge)](https://jahanav-sorting-visualizer.herokuapp.com/)
+[![Sorting Visulizer](https://img.shields.io/badge/On%20Heroku-LIVE-green?style=for-the-badge)](https://jahanav-sorting-visualizer.herokuapp.com/)
 [![On Github Pages](https://img.shields.io/badge/On%20Github%20Pages-LIVE-green?style=for-the-badge)](https://jahanavdixit.github.io/Sorting-visualizer/)
 
